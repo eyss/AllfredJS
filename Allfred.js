@@ -125,7 +125,6 @@ Allert.config = {
 	},
 	time:3000
 }
-
 document.addEventListener('DOMContentLoaded',e=>{
 	const validations ={
 		addError:( element , error = 'error' ) => {
